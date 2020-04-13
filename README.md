@@ -21,8 +21,5 @@ This function is designed to receive as an input two images in the red and near-
 
 (bigger values are represented with brighter colors)
 
-
-![alt text](https://pasteboard.co/J3G1Jub.jpg)
-
 ## Data
 The example data are images from LandSat 5 satellite, collected from the www.usgs.gov.
