@@ -12,7 +12,8 @@ This function is designed to receive as an input two images in the red and near-
 - greyscale_ndvi: Matrix with the same dimensions as the input images, where each pixel represents a value of the NDVI.
 - rgb_ndvi: Three dimension matrix, representing the colored image of the NDVI.
 
-## Colors
+## Colorshttps://pasteboard.co/J3G1Jub.jpg
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 - pixels with values bellow the min value are black.
 - pixels with values between min color and 0.2 are grey.
 - pixels with values between 0.2 and 0.4 are green.
@@ -20,5 +21,8 @@ This function is designed to receive as an input two images in the red and near-
 
 (bigger values are represented with brighter colors)
 
+
+![ndvi output images](https://pasteboard.co/J3G1Jub.jpg "ndvi output images")
+
 ## Data
-Data are images from LandSat 5 satellite, collected from the www.usgs.gov.
+The example data are images from LandSat 5 satellite, collected from the www.usgs.gov.
