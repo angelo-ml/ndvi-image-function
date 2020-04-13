@@ -1,4 +1,4 @@
-# MATLAB NDVI image function
+# MATLAB NDVI Image Function
 This function is designed to receive as an input two images in the red and near-infrared spectrums respectively and creates the image of the NDVI (Normalized Differential Vegetation Index).
 
 ## Function Parameters
