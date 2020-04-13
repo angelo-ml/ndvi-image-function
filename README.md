@@ -21,5 +21,7 @@ This function is designed to receive as an input two images in the red and near-
 
 (bigger values are represented with brighter colors)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Data
 The example data are images from LandSat 5 satellite, collected from the www.usgs.gov.
