@@ -24,4 +24,4 @@ This function is designed to receive as an input two images in the red and near-
 ![ndvi output](https://imagehost.imageupload.net/2020/04/13/github.jpg)
 
 ## Data
-The example data are images from LandSat 5 satellite, collected from the www.usgs.gov.
+The example data are images from LandSat 5 satellite, collected from www.usgs.gov.
