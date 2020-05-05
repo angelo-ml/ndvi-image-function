@@ -1,5 +1,5 @@
 # MATLAB NDVI Image Function
-This function is designed to receive as an input two images in the red and near-infrared spectrums respectively and creates the image of the NDVI (Normalized Differential Vegetation Index).
+This function is designed to receive as an input two images in the red and near-infrared spectrums respectively and creates the image of the Normalized Differential Vegetation Index (NDVI).
 
 ## Function Parameters
 - red band image path (required - string).
@@ -22,6 +22,17 @@ This function is designed to receive as an input two images in the red and near-
 (bigger values are represented with brighter colors)
 
 ![ndvi output](https://imagehost.imageupload.net/2020/04/13/github.jpg)
+
+## Example Usage
+```
+% define near infrared image
+nir_img = 'example-data/band_4.TIF';
+% define red image
+r_img = 'example-data/band_3.TIF';
+
+% call ndvi function (red image, near infrared image, index min value, plot figures, parallel processing)
+ndvi(r_img, nir_img, 0, true, true);
+```
 
 ## Data
 The example data are images from LandSat 5 satellite, collected from www.usgs.gov.
