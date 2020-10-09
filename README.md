@@ -21,7 +21,7 @@ This function is designed to receive as an input two images in the red and near-
 
 (bigger values are represented with brighter colors)
 
-![ndvi output](https://imagehost.imageupload.net/2020/04/13/github.jpg)
+![ndvi output](https://anjelo.ml/github-images/ndvi-image-function/github.jpg)
 
 ## Example Usage
 ```
